@@ -4,7 +4,7 @@
 }
 .topnav{
    background-color: blue;
-   color:red;
+   overflow: hidden;
 }
 .topnav a{
    float: left;
