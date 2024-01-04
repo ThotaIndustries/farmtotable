@@ -1,6 +1,17 @@
 .headerClass{
    background-color: orange;
   color:red;
-
 }
+.topnav{
+   background-color: blue;
+   color:red;
+}
+.topnav a{
+   float: left;
+   text-align: center;
+   text-decoration: none;
+   font-size: 22px;
+} 
+
+
 
