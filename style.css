@@ -29,4 +29,18 @@
    background-color: black;
    color: white;
 }   
+.topbar a.login{
+   background-color: gray;
+   color: white;
+}
+.topbar-right{
+   float: right;
+}
+.topbar a.signup{
+   background-color: #00008B;
+   color: white;
+}
+.topbar-right{
+   float: right;
+}
 
