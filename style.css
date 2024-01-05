@@ -57,7 +57,7 @@ background-color: #333;
 text-align: left;
     }
     figure img {
-width: 200px; 
+width: 220px; 
 height: 200px;
 border: 1px solid #333;}
 figcaption {
@@ -74,7 +74,7 @@ figcaption {
     solid #333;  
     }
     .gfg { 
-    background-color: black; 
+    background-color: green; 
     border: 3px solid #333; 
     color: white; 
     padding: 5px 10px; 
