@@ -29,48 +29,59 @@
    background-color: black;
    color: white;
 }   
-.topbar a.login{
-   background-color: gray;
-   color: white;
-}
-.topbar-right{
-   float: right;
-}
-.topbar a.signup{
-   background-color: #00008B;
-   color: white;
-}
-.topbar-right{
-   float: right;
-}
-.login {
-    background-color: #333;
-    overflow: hidden;
-}
 
-/* Style the links inside the navigation bar */
+
+.login {
+    background-color: blue;
+    overflow: hidden;
+
 .login a {
   float: left;
-  color: #f2f2f2;
+  color: black;
   text-align: center;
-  padding: 14px 16px;
+  padding: 16px 19px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 22px;
 }
 
-/* Change the color of links on hover */
+
 .login a:hover {
-  background-color: #ddd;
+  background-color: #333;
   color: black;
 }
 
-/* Add a color to the active/current link */
-.login a.active {
-  background-color: #04AA6D;
-  color: white;
+
+.login a.acclog {
+    background-color: #333;
 }
 
-/* Right-aligned section inside the top navigation */
 .login-right {
+  float: right;
+}
+.signup {
+    background-color: #d5ffff;
+    overflow: hidden;
+
+.signup a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 16px 19px;
+  text-decoration: none;
+  font-size: 22px;
+}
+
+
+.signup a:hover {
+  background-color: #333;
+  color: black;
+}
+
+
+.signup a.accsign {
+    background-color: #00008B;
+}
+
+.signup-right {
   float: right;
 }
