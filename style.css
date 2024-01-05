@@ -28,60 +28,14 @@
 .topbar a.actival{
    background-color: black;
    color: white;
+}
+.topbar a.login{
+   background-color: black;
+   color: white;
+}
+.topbar a.signup{
+   background-color: black;
+   color: white;
 }   
 
 
-.login {
-    background-color: blue;
-    overflow: hidden;
-
-.login a {
-  float: left;
-  color: black;
-  text-align: center;
-  padding: 16px 19px;
-  text-decoration: none;
-  font-size: 22px;
-}
-
-
-.login a:hover {
-  background-color: #333;
-  color: black;
-}
-
-
-.login a.acclog {
-    background-color: #333;
-}
-
-.login-right {
-  float: right;
-}
-.signup {
-    background-color: #d5ffff;
-    overflow: hidden;
-
-.signup a {
-  float: left;
-  color: black;
-  text-align: center;
-  padding: 16px 19px;
-  text-decoration: none;
-  font-size: 22px;
-}
-
-
-.signup a:hover {
-  background-color: #333;
-  color: black;
-}
-
-
-.signup a.accsign {
-    background-color: #00008B;
-}
-
-.signup-right {
-  float: right;
-}
