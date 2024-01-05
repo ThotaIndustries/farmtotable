@@ -17,15 +17,15 @@
   background-color: #ddd;
   color: black;
 }
-.topbar a.active {
+.active {
   background-color: black;
   color: white;
 }
-.topbar a.activa{
+.activa{
    background-color: black;
    color: white;
 }   
-.topbar a.actival{
+.actival{
    background-color: black;
    color: white;
 }
